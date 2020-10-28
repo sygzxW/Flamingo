@@ -1,4 +1,3 @@
-theme: jekyll-theme-midnight
 <!DOCTYPE html>
 <html>
 <body>
